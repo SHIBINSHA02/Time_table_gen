@@ -26,7 +26,7 @@ export default class Login extends Component {
           <a href="#" className="text-blue-500 mb-6 z-10">
             Forgot Password?
           </a>
-          <img src="/google-icon.svg" alt="Google" className="h-12 w-12 z-10" />
+          <img src="/svg/google.svg" alt="Google" className="h-12 w-12 z-10" />
         </div>
 
         {/* Right Section - Sign Up */}
@@ -53,7 +53,7 @@ export default class Login extends Component {
           >
             Sign Up
           </button>
-          <img src="/google-icon.svg" alt="Google" className="h-12 w-12" />
+          <img src="/svg/google.svg" alt="Google" className="h-12 w-12" />
         </div>
 
         {/* Centered Image */}

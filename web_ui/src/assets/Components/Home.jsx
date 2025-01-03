@@ -17,7 +17,7 @@ export default class Home extends Component {
               style={{
                 backgroundColor:'#973ED7',
               }}
-              onClick={() => (window.location.href = '/project1')}
+              onClick={() => (window.location.href = '/project')}
             >
               View Project
             </button>
@@ -31,7 +31,7 @@ export default class Home extends Component {
               style={{
                 backgroundColor:'#973ED7',
               }}
-              onClick={() => (window.location.href = '/project2')}
+              onClick={() => (window.location.href = '/project')}
             >
               View Project
             </button>
